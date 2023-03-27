@@ -1,7 +1,6 @@
 ### Hi there, Welcome to my profile, i'm Developer Java 👋
 
-- 🔭 I’m currently working as a System Analyst
-- 🌱 I’m currently learning Development Java
+- 🔭 I’m currently working as a Java Developer
 - 👯 I’m looking to collaborate on with projects
 - 📫 How to reach me: IG @manojhonson
 
